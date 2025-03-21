@@ -1,19 +1,19 @@
-"","name_team","idTeam","logo","color","alternate_color"
-"1","AIRCARGOBOOKING OURENSE",952321,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952321.png","#094E81","#094E81"
-"2","ALIMERKA OVIEDO BALONCESTO",951497,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951497.png","#2997b2","#2997b2"
-"3","AMICS CASTELLÓ",951360,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951360.png","#228C3F","#1e2024"
-"4","C.B. NATURAVIA MORÓN",952158,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952158.png","#ed7516","#ed7516"
-"5","CAJA RURAL CB ZAMORA",950810,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950810.png","#213396","#213396"
-"6","FLEXICAR FUENLABRADA",951321,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951321.png","#0085CA","#0085CA"
-"7","GRUPO ALEGA CANTABRIA",950871,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950871.png","#000","#000"
-"8","GRUPO URETA TIZONA BURGOS",950726,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950726.png","#1d294f","#0D2B59"
-"9","HESTIA MENORCA",950650,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950650.png","#008B95","#001231"
-"10","HLA ALICANTE",950779,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950779.png","#204E9C","#020f16"
-"11","INVEREADY GIPUZKOA",950759,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950759.png","#062e6a","#01070d"
-"12","MONBUS OBRADOIRO",952033,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952033.png","#759ed2","#8d1b24"
-"13","MOVISTAR ESTUDIANTES",951466,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951466.png","#1ca9e1","#1ca9e1"
-"14","ODILO FC CARTAGENA CB",951078,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951078.png","#000","#000"
-"15","REAL BETIS BALONCESTO",950951,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950951.png","#258e4f","#008835"
-"16","SILBÖ SAN PABLO BURGOS",951500,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951500.png","#0883cd","#173355"
-"17","SÚPER AGROPAL PALENCIA",951848,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951848.png","#614d90","#331857"
-"18","UEMC REAL VALLADOLID BALONCESTO",952032,"https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952032.png","#63257e","#63257E"
+name_team,idTeam,logo,color,alternate_color
+AIRCARGOBOOKING OURENSE,952321,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952321.png,#094E81,#094E81
+ALIMERKA OVIEDO BALONCESTO,951497,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951497.png,#2997b2,#2997b2
+AMICS CASTELLÓ,951360,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951360.png,#228C3F,#1e2024
+C.B. NATURAVIA MORÓN,952158,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952158.png,#ed7516,#ed7516
+CAJA RURAL CB ZAMORA,950810,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950810.png,#213396,#213396
+FLEXICAR FUENLABRADA,951321,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951321.png,#0085CA,#0085CA
+GRUPO ALEGA CANTABRIA,950871,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950871.png,#000,#000
+GRUPO URETA TIZONA BURGOS,950726,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950726.png,#1d294f,#0D2B59
+HESTIA MENORCA,950650,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950650.png,#008B95,#001231
+HLA ALICANTE,950779,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950779.png,#204E9C,#020f16
+INVEREADY GIPUZKOA,950759,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950759.png,#062e6a,#01070d
+MONBUS OBRADOIRO,952033,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952033.png,#759ed2,#8d1b24
+MOVISTAR ESTUDIANTES,951466,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951466.png,#1ca9e1,#1ca9e1
+ODILO FC CARTAGENA CB,951078,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951078.png,#000,#000
+REAL BETIS BALONCESTO,950951,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/950951.png,#258e4f,#008835
+SILBÖ SAN PABLO BURGOS,951500,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951500.png,#0883cd,#173355
+SÚPER AGROPAL PALENCIA,951848,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/951848.png,#614d90,#331857
+UEMC REAL VALLADOLID BALONCESTO,952032,https://raw.githubusercontent.com/IvoVillanueva/FEB/refs/heads/main/952032.png,#63257e,#63257E
